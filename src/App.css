@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+.color {
+  background-color:#ED7633 ;
+  height: 120vh !important;
+}
+.rounded-circle{
+  width: 10%;
+  
+}
+.head{
+  padding-top: 50%;
+}
+.space{
+  padding-left: 2%;
+}
+
+  /* margin-left: 35%; */
+  
+
+/* .justify-content-center {
+  justify-content: center!important;
+} */
+
+/* .mb-1{
+ color: #ffffff;
+ padding-left: 10%;
+} */
+
+.modal-dialog{
+  outline: 6px solid #ED7633;
+  border: 10px solid transparent;
+}
+.login{
+  color: #ED7633; 
+}
+
+.text{
+  color: #ABAFB3;
+}
+.red{
+  background-color:#ED7633 ;
+  border:none;
+  color: #ffffff; 
+  height: 45px;
+  text-align: center !important;
+  font-family: OpenSans-Semibold;
+  padding-top: 2%;
+  /* border-radius: 150%, 75%; */ 
+}
